@@ -5,7 +5,7 @@ I believe Data Science is the next big thing and understanding how data affects 
 
 You can find me on Twitter [![Twitter][1.2]][1] and on Linked [![LinkedIn][3.2]][3] and also read about my Python journey at ZurixI4G on Medium [![Medium][4.1]][4] 
 
-###### _[ZurixI4G](https://training.zuri.team/) is a collaboration between Ingressive for Good-a non-profit organization created by Ingressive Capital-and Zuri Team, a tech company that trains and connects software engineering talents to the African community and the world at large. The collaboration aims to equip young Africans in need with tech skills to help them impact and contribute to the development of Africa, socially and economically_ 
+###### _[ZurixI4G](https://training.zuri.team/) is a collaboration between Ingressive for Good-a non-profit organization created by Ingressive Capital and the Zuri Team, a tech consultancy that trains and connects software engineering talents to the African community and the world at large. The collaboration aims to equip young Africans in need with tech skills to help them impact and contribute to the development of Africa, socially and economically_ 
 
 
 <!-- Icons -->
